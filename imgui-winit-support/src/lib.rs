@@ -14,8 +14,8 @@
 //!
 //! ## Complete example for winit 0.20+ (without a renderer)
 //!
-//! ```rust,no_run,ignore
-//! # // TODO: Remove ignore when only one winit version is used
+//! ```no_run
+//! # use winit_23 as winit;
 //! use imgui::Context;
 //! use imgui_winit_support::{HiDpiMode, WinitPlatform};
 //! use std::time::Instant;
